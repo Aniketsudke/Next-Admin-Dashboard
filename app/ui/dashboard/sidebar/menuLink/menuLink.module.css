@@ -1,0 +1,11 @@
+.container{
+    padding: 18px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+
+.container:hover , .active{
+    background-color: #2e374a;
+}
