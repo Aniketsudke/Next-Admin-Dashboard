@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Next Admin Dashboard
 </h1>
 
-<p align="center"><img src="https://socialify.git.ci/Aniketsudke/Next-Admin-Dashboard"></p>
+
 
 ## Run Locally
 
