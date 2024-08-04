@@ -1,15 +1,14 @@
-<h1 align="center" id="title">Readme Build</h1>
+<h1 align="center" id="title">Next Admin Dashboard
+</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Aniketsudke/Next-Admin-Dashboard
-/image?language=1&name=1&owner=1&stargazers=1&theme=Light"></p>
+<p align="center"><img src="https://socialify.git.ci/Aniketsudke/Next-Admin-Dashboard"></p>
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Aniketsudke/Next-Admin-Dashboard
-.git
+  git clone https://github.com/Aniketsudke/Next-Admin-Dashboard.git
 ```
 
 Go to the project directory
